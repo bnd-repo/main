@@ -1,3 +1,4 @@
 {
-    "bnd-repo": "core/bnd-repo"
+    "bnd-repo": "core/bnd-repo",
+    "boundaries": "core/boundaries"
 }
