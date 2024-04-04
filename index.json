@@ -1,5 +1,6 @@
 {
     "bnd-repo": "core/bnd-repo",
     "boundaries": "core/boundaries",
-    "neofetch": "tools/neofetch"
+    "neofetch": "tools/neofetch",
+    "cowsay": "tools/cowsay"
 }
