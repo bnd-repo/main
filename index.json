@@ -1,6 +1,18 @@
 {
-    "bnd-repo": "core/bnd-repo",
-    "boundaries": "core/boundaries",
-    "neofetch": "tools/neofetch",
-    "cowsay": "tools/cowsay"
+    "bnd-repo": {
+        "url": "core/bnd-repo",
+        "version" : "0.3"
+    },
+    "boundaries": {
+        "url": "core/boundaries",
+        "version": "0.9.2"
+    },
+    "neofetch": {
+        "url": "tools/neofetch",
+        "version": "7.1.0"
+    },
+    "cowsay": {
+        "url": "tools/cowsay",
+        "version": "3.7.0"
+    }
 }
